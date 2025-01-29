@@ -15,6 +15,7 @@ int main() {
 	string userInput = "NOTHING HERE YET!"; // The variable that will store the users input
 
 	// Initialize the application for general use
+	system("cls");
 	SetConTitle("Code Templater Plus Plus");
 
 	// The main application code
