@@ -1,2 +1,3 @@
-# CodeTemplaterPlusPlus
-A basic console application written in c++ that will give you starting points with code.
+# Code Templater Plus Plus
+## What Is It?
+**Code Templater Plus Plus** is an application for Windows, MacOS, and Linux!
