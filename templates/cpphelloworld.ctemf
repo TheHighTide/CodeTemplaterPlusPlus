@@ -1,0 +1,1 @@
+{PR}#include {RD}<iostream>{DF}\n\n{CY}int {YW}main{PR}() {YW}{\n    {GR}std{WT}::cout << {RD}\"Hello, world!\"{WT};\n{YW}}{DF}
